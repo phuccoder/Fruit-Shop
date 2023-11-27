@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/FruitStore/src/java/controller/CartRemoveController.java</file>
+            <file>file:/E:/FruitStore/src/java/controller/CheckoutController.java</file>
+            <file>file:/E:/FruitStore/web/login.jsp</file>
+            <file>file:/E:/FruitStore/src/java/controller/CreateController.java</file>
+            <file>file:/E:/FruitStore/src/java/user/UserDTO.java</file>
+            <file>file:/E:/FruitStore/src/java/controller/LogoutController.java</file>
+            <file>file:/E:/FruitStore/web/viewCart.jsp</file>
+            <file>file:/E:/FruitStore/src/java/controller/AuthenFilter.java</file>
+            <file>file:/E:/FruitStore/web/shopping.jsp</file>
+            <file>file:/E:/FruitStore/src/java/controller/ShoppingController.java</file>
+            <file>file:/E:/FruitStore/src/java/controller/CartViewController.java</file>
+            <file>file:/E:/FruitStore/src/java/controller/Top1UserController.java</file>
+            <file>file:/E:/FruitStore/src/java/controller/CartAddController.java</file>
+            <file>file:/E:/FruitStore/src/java/utils/DBUtils.java</file>
+            <file>file:/E:/FruitStore/web/admin.jsp</file>
+            <file>file:/E:/FruitStore/web/checkout.jsp</file>
+            <file>file:/E:/FruitStore/src/java/controller/DeleteController.java</file>
+            <file>file:/E:/FruitStore/src/java/user/UserError.java</file>
+            <file>file:/E:/FruitStore/web/login.html</file>
+            <file>file:/E:/FruitStore/web/shopping.html</file>
+            <file>file:/E:/FruitStore/src/java/controller/LoginController.java</file>
+            <file>file:/E:/FruitStore/web/user.jsp</file>
+            <file>file:/E:/FruitStore/web/createUser.html</file>
+            <file>file:/E:/FruitStore/web/WEB-INF/web.xml</file>
+            <file>file:/E:/FruitStore/src/java/controller/SearchController.java</file>
+            <file>file:/E:/FruitStore/src/java/controller/CheckoutViewController.java</file>
+            <file>file:/E:/FruitStore/web/createUser.jsp</file>
+            <file>file:/E:/FruitStore/src/java/controller/UpdateController.java</file>
+            <file>file:/E:/FruitStore/src/java/user/UserDAO.java</file>
+            <file>file:/E:/FruitStore/src/java/controller/MainController.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/FruitStore">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DBCon" password="12345" type="javax.sql.DataSource" url="jdbc:sqlserver://DESKTOP-RRKCD24:1433;databaseName=StoreManagement" username="sa"> 
+        
+    </Resource>
+</Context>
